@@ -90,3 +90,7 @@ Now, with whatever time remains, discuss each other's solutions to CR1. You can 
 - Could the code style be improved?
 
 Note that the people in your Zoom breakout room today are very likely not the same people you will review on STACK.
+
+### Learn more
+
+If you'd like to learn more about code review, and more generally what we mean by writing "good code", I would recommend [this worksheet from MIT](https://web.mit.edu/6.005/www/fa15/classes/04-code-review/#reading_4_code_review). The code examples use Java, not Python, but should still be understandable; the general principles are the same in any language.
