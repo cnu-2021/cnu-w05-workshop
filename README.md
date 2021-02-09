@@ -61,12 +61,6 @@ s = 'I am a string!'
 print(s[3])
 ```
 
-### Naming conventions
-
-When writing small, simple code snippets (like many of the examples you have seen so far in these worksheets), using single-letter variable or function names is usually OK. However, for more complex code, it is usually a better idea to name your variables in a way that keeps your code easily understandable.
-
-Take a look at the PEP-8 section on [variable names](https://www.python.org/dev/peps/pep-0008/#descriptive-naming-styles).
-
 🚩 The following code finds the roots of the quadratic polynomial p(x) = ax^2 + bx + c. However, the author wrote it in a hurry. What can you do to improve it?
 
 ```python
